@@ -1,0 +1,10 @@
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\bin\Debug\TCP_Client.exe.config
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\bin\Debug\TCP_Client.exe
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\bin\Debug\TCP_Client.pdb
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\obj\Debug\TCP_Client.exe
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\obj\Debug\TCP_Client.pdb
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\bin\Debug\DA.dll
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\bin\Debug\Newtonsoft.Json.dll
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\bin\Debug\DA.pdb
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\bin\Debug\Newtonsoft.Json.xml
+c:\Users\sunchelsea\documents\visual studio 2015\Projects\TCP\TCP_Client\obj\Debug\TCP_Client.csprojResolveAssemblyReference.cache
